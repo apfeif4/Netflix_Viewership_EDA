@@ -1,5 +1,3 @@
-Here is an improved and more professional version of your README file, with corrections to grammar, clarity, structure, and formatting to better align with best practices:
-
 ---
 
 # 📊 EDA - Netflix Viewership
